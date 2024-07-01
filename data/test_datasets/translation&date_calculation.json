@@ -1,0 +1,502 @@
+[
+    {
+        "question": "将以下西班牙语翻译成中文: ¡Hola! ¿Cómo estás?",
+        "answer": "你好！你怎么样？",
+        "judge": 0
+    },
+    {
+        "question": "将以下德语翻译成英文: Guten Tag! Wie geht es Ihnen?",
+        "answer": "Why not go hiking with me?",
+        "judge": 1
+    },
+    {
+        "question": "从2014-02-06到2014-05-21共有多少天？",
+        "answer": "69",
+        "judge": 1
+    },
+    {
+        "question": "将以下意大利语翻译成英文: Parli inglese?",
+        "answer": "Do you speak English?",
+        "judge": 0
+    },
+    {
+        "question": "从2021-07-03到2022-02-28共有多少天？",
+        "answer": "240",
+        "judge": 0
+    },
+    {
+        "question": "将以下日语翻译成英文: 2名様のテーブルを予約したいです。",
+        "answer": "Have a good day.",
+        "judge": 1
+    },
+    {
+        "question": "从2016-11-23到2017-03-25共有多少天？",
+        "answer": "122",
+        "judge": 0
+    },
+    {
+        "question": "将以下西班牙语翻译成中文: ¿Dónde está la tienda más cercana?",
+        "answer": "明天吃什么？",
+        "judge": 1
+    },
+    {
+        "question": "从2000-10-23到2001-07-17共有多少天？",
+        "answer": "288",
+        "judge": 1
+    },
+    {
+        "question": "从2011-06-26到2012-02-22共有多少天？",
+        "answer": "241",
+        "judge": 0
+    },
+    {
+        "question": "将以下韩语翻译成中文: 계산서를 가져다 주세요.",
+        "answer": "请拿账单。",
+        "judge": 0
+    },
+    {
+        "question": "将以下意大利语翻译成英文: Buongiorno! Come stai?",
+        "answer": "Good morning! How are you?",
+        "judge": 0
+    },
+    {
+        "question": "从2001-04-23到2002-02-14共有多少天？",
+        "answer": "297",
+        "judge": 0
+    },
+    {
+        "question": "从2021-07-11到2021-09-26共有多少天？",
+        "answer": "103",
+        "judge": 1
+    },
+    {
+        "question": "将以下日语翻译成英文: おはようございます！今日はどうですか？",
+        "answer": "Good morning! How's your day?",
+        "judge": 0
+    },
+    {
+        "question": "将以下法语翻译成英文: Combien coûte cet article?",
+        "answer": "Today is Sunday.",
+        "judge": 1
+    },
+    {
+        "question": "从2000-09-25到2000-12-19共有多少天？",
+        "answer": "69",
+        "judge": 1
+    },
+    {
+        "question": "将以下韩语翻译成英文: 계산서를 가져다 주세요.",
+        "answer": "You are welcome.",
+        "judge": 1
+    },
+    {
+        "question": "将以下法语翻译成中文: S'il vous plaît, apportez l'addition.",
+        "answer": "昨天将来他们一个人。",
+        "judge": 1
+    },
+    {
+        "question": "将以下韩语翻译成英文: 오늘은 무슨 요일입니까?",
+        "answer": "Have you eaten?",
+        "judge": 1
+    },
+    {
+        "question": "从2014-12-09到2015-09-04共有多少天？",
+        "answer": "269",
+        "judge": 0
+    },
+    {
+        "question": "将以下意大利语翻译成中文: Grazie mille per il tuo aiuto.",
+        "answer": "昨天他们想来学校。",
+        "judge": 1
+    },
+    {
+        "question": "从2007-10-05到2008-04-20共有多少天？",
+        "answer": "198",
+        "judge": 0
+    },
+    {
+        "question": "将以下葡萄牙语翻译成英文: Onde fica a loja mais próxima?",
+        "answer": "Where is the nearest store?",
+        "judge": 0
+    },
+    {
+        "question": "将以下西班牙语翻译成英文: ¿Puedes ayudarme a encontrar el camino al hotel?",
+        "answer": "We are good friends.",
+        "judge": 1
+    },
+    {
+        "question": "从2008-08-21到2008-12-27共有多少天？",
+        "answer": "125",
+        "judge": 1
+    },
+    {
+        "question": "从2023-06-16到2023-11-09共有多少天？",
+        "answer": "122",
+        "judge": 1
+    },
+    {
+        "question": "从2020-09-15到2021-05-06共有多少天？",
+        "answer": "233",
+        "judge": 0
+    },
+    {
+        "question": "从2020-06-02到2021-05-22共有多少天？",
+        "answer": "314",
+        "judge": 1
+    },
+    {
+        "question": "从2013-04-01到2013-06-20共有多少天？",
+        "answer": "64",
+        "judge": 1
+    },
+    {
+        "question": "从2003-07-09到2003-10-11共有多少天？",
+        "answer": "95",
+        "judge": 1
+    },
+    {
+        "question": "从2014-10-22到2015-09-06共有多少天？",
+        "answer": "274",
+        "judge": 1
+    },
+    {
+        "question": "将以下葡萄牙语翻译成英文: Obrigado por tudo.",
+        "answer": "Thank you for everything.",
+        "judge": 0
+    },
+    {
+        "question": "从2005-02-02到2005-11-07共有多少天？",
+        "answer": "278",
+        "judge": 0
+    },
+    {
+        "question": "从2015-04-05到2015-08-12共有多少天？",
+        "answer": "129",
+        "judge": 0
+    },
+    {
+        "question": "将以下日语翻译成英文: すみません、これは何ですか？",
+        "answer": "Hello, I'm Lily.",
+        "judge": 1
+    },
+    {
+        "question": "将以下西班牙语翻译成英文: ¡Hola! ¿Cómo estás?",
+        "answer": "are you OK?",
+        "judge": 1
+    },
+    {
+        "question": "从2023-12-01到2024-03-23共有多少天？",
+        "answer": "113",
+        "judge": 0
+    },
+    {
+        "question": "从2020-04-26到2021-03-25共有多少天？",
+        "answer": "333",
+        "judge": 0
+    },
+    {
+        "question": "将以下意大利语翻译成英文: Buongiorno! Come stai?",
+        "answer": "Good morning! How are you?",
+        "judge": 0
+    },
+    {
+        "question": "将以下韩语翻译成中文: 계산서를 가져다 주세요.",
+        "answer": "初次见面很高兴。",
+        "judge": 1
+    },
+    {
+        "question": "将以下意大利语翻译成英文: Parli inglese?",
+        "answer": "yesterday I went to school.",
+        "judge": 1
+    },
+    {
+        "question": "将以下日语翻译成中文: おはようございます！今日はどうですか？",
+        "answer": "早上好！今天怎么样？",
+        "judge": 0
+    },
+    {
+        "question": "将以下意大利语翻译成中文: Per favore, dimmi di più.",
+        "answer": "明天怎么样，我们来聚会。",
+        "judge": 1
+    },
+    {
+        "question": "将以下韩语翻译成中文: 오늘은 무슨 요일입니까?",
+        "answer": "今天是星期几？",
+        "judge": 0
+    },
+    {
+        "question": "从2022-11-24到2023-10-01共有多少天？",
+        "answer": "311",
+        "judge": 0
+    },
+    {
+        "question": "将以下日语翻译成英文: おはようございます！今日はどうですか？",
+        "answer": "Good morning! How's your day?",
+        "judge": 0
+    },
+    {
+        "question": "将以下意大利语翻译成中文: Per favore, dimmi di più.",
+        "answer": "他们和一个小狗。",
+        "judge": 1
+    },
+    {
+        "question": "从2000-07-23到2001-01-18共有多少天？",
+        "answer": "179",
+        "judge": 0
+    },
+    {
+        "question": "将以下韩语翻译成中文: 이것은 무엇입니까?",
+        "answer": "他是一名高中生。",
+        "judge": 1
+    },
+    {
+        "question": "将以下意大利语翻译成中文: Buongiorno! Come stai?",
+        "answer": "将来我想当科学家。",
+        "judge": 1
+    },
+    {
+        "question": "从2014-12-07到2015-04-16共有多少天？",
+        "answer": "130",
+        "judge": 0
+    },
+    {
+        "question": "从2015-04-13到2016-02-01共有多少天？",
+        "answer": "334",
+        "judge": 1
+    },
+    {
+        "question": "将以下德语翻译成中文: Wie viel kostet dieser Artikel?",
+        "answer": "这个东西多少钱？",
+        "judge": 0
+    },
+    {
+        "question": "将以下意大利语翻译成英文: Per favore, dimmi di più.",
+        "answer": "today is a beautiful day.",
+        "judge": 1
+    },
+    {
+        "question": "将以下葡萄牙语翻译成中文: Você pode me ajudar a encontrar o caminho para o hotel?",
+        "answer": "明天想和你去宾馆。",
+        "judge": 1
+    },
+    {
+        "question": "从2019-02-05到2019-12-12共有多少天？",
+        "answer": "305",
+        "judge": 1
+    },
+    {
+        "question": "将以下西班牙语翻译成英文: ¿Dónde está la tienda más cercana?",
+        "answer": "Nice to meet you.",
+        "judge": 1
+    },
+    {
+        "question": "从2009-08-02到2010-01-04共有多少天？",
+        "answer": "155",
+        "judge": 0
+    },
+    {
+        "question": "从2017-08-16到2018-05-02共有多少天？",
+        "answer": "215",
+        "judge": 1
+    },
+    {
+        "question": "将以下日语翻译成中文: おはようございます！今日はどうですか？",
+        "answer": "他想念你了。",
+        "judge": 1
+    },
+    {
+        "question": "将以下韩语翻译成英文: 계산서를 가져다 주세요.",
+        "answer": "Please bring the bill.",
+        "judge": 0
+    },
+    {
+        "question": "将以下法语翻译成英文: Merci beaucoup pour votre aide.",
+        "answer": "Thank you very much for your help.",
+        "judge": 0
+    },
+    {
+        "question": "将以下意大利语翻译成中文: Parli inglese?",
+        "answer": "你会说英语吗？",
+        "judge": 0
+    },
+    {
+        "question": "将以下德语翻译成中文: Ich brauche Hilfe.",
+        "answer": "我需要帮助。",
+        "judge": 0
+    },
+    {
+        "question": "将以下德语翻译成中文: Guten Tag! Wie geht es Ihnen?",
+        "answer": "你好！你怎么样？",
+        "judge": 0
+    },
+    {
+        "question": "从2013-01-12到2013-08-28共有多少天？",
+        "answer": "216",
+        "judge": 1
+    },
+    {
+        "question": "将以下葡萄牙语翻译成英文: Obrigado por tudo.",
+        "answer": "I love you.",
+        "judge": 1
+    },
+    {
+        "question": "将以下意大利语翻译成英文: Grazie mille per il tuo aiuto.",
+        "answer": "what is that?",
+        "judge": 1
+    },
+    {
+        "question": "从2011-03-22到2011-11-17共有多少天？",
+        "answer": "246",
+        "judge": 1
+    },
+    {
+        "question": "从2004-01-16到2004-02-22共有多少天？",
+        "answer": "37",
+        "judge": 0
+    },
+    {
+        "question": "从2005-10-23到2006-03-30共有多少天？",
+        "answer": "158",
+        "judge": 0
+    },
+    {
+        "question": "将以下韩语翻译成中文: 이것은 무엇입니까?",
+        "answer": "过去 去 我们 在 怎么样 现在 的 什么 我们 将来 来 想",
+        "judge": 1
+    },
+    {
+        "question": "将以下德语翻译成中文: Guten Tag! Wie geht es Ihnen?",
+        "answer": "你叫什么？",
+        "judge": 1
+    },
+    {
+        "question": "从2009-09-23到2010-06-14共有多少天？",
+        "answer": "238",
+        "judge": 1
+    },
+    {
+        "question": "从2021-04-03到2021-09-28共有多少天？",
+        "answer": "142",
+        "judge": 1
+    },
+    {
+        "question": "从2000-07-05到2001-03-26共有多少天？",
+        "answer": "309",
+        "judge": 1
+    },
+    {
+        "question": "将以下韩语翻译成英文: 안녕하세요! 오늘 하루는 어땠어요?",
+        "answer": "yesterday I went shopping.",
+        "judge": 1
+    },
+    {
+        "question": "从2012-12-16到2013-11-23共有多少天？",
+        "answer": "391",
+        "judge": 1
+    },
+    {
+        "question": "将以下法语翻译成中文: Parlez-vous anglais?",
+        "answer": "你会说英语吗？",
+        "judge": 0
+    },
+    {
+        "question": "从2006-02-08到2006-11-13共有多少天？",
+        "answer": "278",
+        "judge": 0
+    },
+    {
+        "question": "将以下法语翻译成中文: Combien coûte cet article?",
+        "answer": "今天想去郊游吗？",
+        "judge": 1
+    },
+    {
+        "question": "从2004-11-23到2005-01-31共有多少天？",
+        "answer": "119",
+        "judge": 1
+    },
+    {
+        "question": "从2020-05-22到2020-10-26共有多少天？",
+        "answer": "180",
+        "judge": 1
+    },
+    {
+        "question": "将以下韩语翻译成英文: 이것은 무엇입니까?",
+        "answer": "how are you?",
+        "judge": 1
+    },
+    {
+        "question": "从2007-08-02到2008-07-15共有多少天？",
+        "answer": "348",
+        "judge": 0
+    },
+    {
+        "question": "从2017-07-02到2017-11-21共有多少天？",
+        "answer": "176",
+        "judge": 1
+    },
+    {
+        "question": "从2015-04-25到2015-05-04共有多少天？",
+        "answer": "44",
+        "judge": 1
+    },
+    {
+        "question": "从2009-12-19到2010-05-06共有多少天？",
+        "answer": "161",
+        "judge": 1
+    },
+    {
+        "question": "从2006-05-23到2007-01-19共有多少天？",
+        "answer": "241",
+        "judge": 0
+    },
+    {
+        "question": "从2007-08-09到2007-12-08共有多少天？",
+        "answer": "121",
+        "judge": 0
+    },
+    {
+        "question": "从2013-03-07到2013-09-30共有多少天？",
+        "answer": "207",
+        "judge": 0
+    },
+    {
+        "question": "从2013-02-04到2013-08-16共有多少天？",
+        "answer": "193",
+        "judge": 0
+    },
+    {
+        "question": "从2005-03-03到2006-01-10共有多少天？",
+        "answer": "313",
+        "judge": 0
+    },
+    {
+        "question": "将以下德语翻译成英文: Ich brauche Hilfe.",
+        "answer": "you are my friend.",
+        "judge": 1
+    },
+    {
+        "question": "将以下德语翻译成中文: Wie viel kostet dieser Artikel?",
+        "answer": "和你们去徒步吗？",
+        "judge": 1
+    },
+    {
+        "question": "从2001-10-27到2002-08-01共有多少天？",
+        "answer": "250",
+        "judge": 1
+    },
+    {
+        "question": "将以下日语翻译成英文: コーヒーを一杯注文したいのですが。",
+        "answer": "I would like to order a cup of coffee, please.",
+        "judge": 0
+    },
+    {
+        "question": "从2000-11-25到2001-09-23共有多少天？",
+        "answer": "302",
+        "judge": 0
+    },
+    {
+        "question": "将以下意大利语翻译成英文: Per favore, dimmi di più.",
+        "answer": "I love you",
+        "judge": 1
+    }
+]
